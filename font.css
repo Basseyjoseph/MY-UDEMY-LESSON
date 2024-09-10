@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+* {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+h1 {
+    color: black;
+    font: oblique;
+    font-size: 50px;
+    text-decoration: dotted;
+    text-align: justify;
+    text-shadow: 4px 2px red;
+   
+
+}
+.p1 {
+    color: red;
+    font-weight: 900;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+  
+
+.p2 {
+    color: red;
+        letter-spacing: 4px;
+        word-spacing: 4px;
+    }
